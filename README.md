@@ -109,3 +109,5 @@ sudo systemctl restart nginx
 ## Conclusion
 The website `swaveycode.site` is now fully deployed with HTTPS support via Certbot and Nginx.
 
+https://roadmap.sh/projects/basic-dns
+
